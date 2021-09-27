@@ -1,0 +1,46 @@
+.image-container{
+    height: 150px;
+    width: 150px;
+    border: 2px solid lightpink;
+    border-radius: 10px;
+   
+}
+
+.teacher-container{
+    
+    background-color: lightgoldenrodyellow;
+    border: 3px solid goldenrod;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 10px;
+
+}
+
+.teacher-container:hover{
+    background-color:gray;
+    color: white;
+}
+
+.button-container{
+    background-color: rgb(116, 189, 114);
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgba(211, 211, 211, 0.959);
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.button-container:hover{
+    background-color: goldenrod;
+}
+.icon i{
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
+  color: black;
+    }
+
+.icon i:hover{
+    color: white;
+}

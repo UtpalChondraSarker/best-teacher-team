@@ -1,0 +1,29 @@
+.teachers{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+  
+}
+.teachers-container{
+    text-align: center;
+    margin-right: 10px;
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.teachers-cart{
+    background-color:whitesmoke;
+    margin-left: 5px;
+    padding-left: 15px;
+    padding-top: 50px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    
+}

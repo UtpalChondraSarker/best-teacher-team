@@ -1,0 +1,23 @@
+.header-container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.best-teacher{
+    color: orange;
+    font-size: 25px;
+}
+
+.title{
+    color: lightcyan;
+    font-size: 20px;
+}
+
+.budget{
+    color: goldenrod;
+    font-size: 20px;
+}
